@@ -1,2 +1,3 @@
-# musicXplorer
-MPD client for exploring music.
+# musd
+MPD client for exploring music written in Python.
+
